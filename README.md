@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding-gif" />
+  <img src="https://cdn.pixabay.com/photo/2023/08/04/07/08/ai-generated-8167664_960_720.jpg" width="500" alt="" />
 </p>
+
 
 ---
 
@@ -44,4 +45,4 @@
 
 ---
 
-> *“Simplicity is the soul of efficiency.” – Austin Freeman*
+> *“The grind isn’t for applause. It’s for the destination I’ve already pictured.” – Kalpesh Dongarkar*
