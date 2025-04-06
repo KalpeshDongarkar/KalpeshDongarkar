@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2023/08/04/07/08/ai-generated-8167664_960_720.jpg" width="500" alt="" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBpaDJ2eG0xcXlza2piYTRscTZnNDkxYTZqeTV5dHhyb2UwNW01MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif" width="500" alt="" />
 </p>
 
 
