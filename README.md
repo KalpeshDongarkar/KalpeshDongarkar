@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Your+Name;Full-stack+Software+Developer;Tech+Enthusiast+%26+Problem+Solver;&center=true&width=500&height=45&color=F7DF1E&vCenter=true&size=22" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding-gif" />
 </p>
 
