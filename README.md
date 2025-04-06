@@ -27,9 +27,7 @@
 
 ### 🚀 Projects
 
-- 🔒 **Antivirus App** - Rust-based multi-platform antivirus with real-time threat detection  
-- 📶 **Network Monitor** - Real-time network & endpoint management tool  
-- ⚙️ **Mobile App Builder** - Drag-and-drop app builder using Angular & Node.js
+- Will Update Soon
 
 ---
 
