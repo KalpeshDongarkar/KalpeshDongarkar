@@ -25,11 +25,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
 
 **Frameworks, Backend & Communication**
 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
 ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat-square&logo=google)
 
